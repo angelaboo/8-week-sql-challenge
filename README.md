@@ -1,6 +1,6 @@
 # 8-Week SQL Challenge
 
-This repository contains my solutions to the **[8-Week SQL Challenge](https://8weeksqlchallenge.com)**. Each case study is designed to simulate real-world business scenarios, helping to test and improve SQL skills—from basic queries to advanced data analysis techniques.
+This repository contains my solutions to the **[8-Week SQL Challenge](https://8weeksqlchallenge.com)**. Each case study offers a structured approach to testing and improving SQL skills—from basic queries to advanced data analysis techniques—through scenario-based exercises.
 
 As I complete each challenge, I'll update this repository with my solutions, insights, and learnings. Stay tuned for more!
 
@@ -8,7 +8,7 @@ As I complete each challenge, I'll update this repository with my solutions, ins
 
 ## 📚 Table of Contents
 
-Below are the links to the case studies I've completed so far. Click on the links to explore the solutions and insights for each challenge.
+Here are the links to the case studies I’ve completed so far. Feel free to click on them to explore the solutions and insights for each challenge.
 
 | Case Study | Status | Solution |
 |------------|--------|----------|
