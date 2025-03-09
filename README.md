@@ -12,7 +12,7 @@ Below are the links to the case studies I've completed so far. Click on the link
 
 | Case Study | Status | Solution |
 |------------|--------|----------|
-| [Case Study #1: Danny's Diner](#case-study-1-dannys-diner) | ✅ Completed | [View Solution](#case-study-1-dannys-diner) |
+| [Case Study #1: Danny's Diner](https://8weeksqlchallenge.com/case-study-1/) | ✅ Completed | [View Solution](https://github.com/angelaboo/8-week-sql-challenge/tree/717d6712d00821ae60e63af71c6169b1103fe214/Case%20Study%20%231%20-%20Danny's%20Diner) |
 | Case Study #2: Pizza Runner | 🚧 Not Started | Coming Soon |
 | Case Study #3: Foodie-Fi | 🚧 Not Started | Coming Soon |
 | Case Study #4: Data Bank | 🚧 Not Started | Coming Soon |
@@ -29,4 +29,4 @@ A huge thank you to **[Data With Danny](https://www.datawithdanny.com/)** for cr
 <br>
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/angelaboo/8-week-sql-challenge/blob/84c8749df5123ff450fb3c9fc1398daf882cd954/LICENSE) file for details.
