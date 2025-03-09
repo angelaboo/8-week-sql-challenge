@@ -1,2 +1,32 @@
-# 8-week-sql-challenge
-My solutions to the [8 Week SQL Challenge](https://8weeksqlchallenge.com) using MySQL.
+# 8-Week SQL Challenge
+
+This repository contains my solutions to the **[8-Week SQL Challenge](https://8weeksqlchallenge.com)**. Each case study is designed to simulate real-world business scenarios, helping to test and improve SQL skills—from basic queries to advanced data analysis techniques.
+
+As I complete each challenge, I'll update this repository with my solutions, insights, and learnings. Stay tuned for more!
+
+<br>
+
+## 📚 Table of Contents
+
+Below are the links to the case studies I've completed so far. Click on the links to explore the solutions and insights for each challenge.
+
+| Case Study | Status | Solution |
+|------------|--------|----------|
+| [Case Study #1: Danny's Diner](#case-study-1-dannys-diner) | ✅ Completed | [View Solution](#case-study-1-dannys-diner) |
+| Case Study #2: Pizza Runner | 🚧 Not Started | Coming Soon |
+| Case Study #3: Foodie-Fi | 🚧 Not Started | Coming Soon |
+| Case Study #4: Data Bank | 🚧 Not Started | Coming Soon |
+| Case Study #5: Data Mart | 🚧 Not Started | Coming Soon |
+| Case Study #6: Clique Bait | 🚧 Not Started | Coming Soon |
+| Case Study #7: Balanced Tree Clothing Co. | 🚧 Not Started | Coming Soon |
+| Case Study #8: Fresh Segments | 🚧 Not Started | Coming Soon |
+
+<br>
+
+## Acknowledgments
+A huge thank you to **[Data With Danny](https://www.datawithdanny.com/)** for creating the **[8-Week SQL Challenge](https://8weeksqlchallenge.com)**. These case studies are an excellent way to practice and improve SQL skills while solving simulated real-world business problems.
+
+<br>
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
